@@ -1,0 +1,48 @@
+html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,p,fieldset,input,button,textarea,form,blockquote,pre {margin:0; padding:0;}
+body {background:url(../images/content_bg.jpg) repeat;color:#666666; font:16px/1.5 Helvetica,"Hiragino Sans GB",Tahoma,Verdana,"Microsoft Yahei",Arial;}
+img{border:0;}
+li{list-style:none;}
+a{text-decoration:none;}
+.clear{clear:both;}
+.wrap_width{width: 960px; margin:0 auto;}
+nav{background:url(../images/header_bg.png) repeat-x transparent; width:100%;height:80px; top:0;left:0;position:fixed;}
+nav .logo,nav ul li{float:left;}
+nav .logo{float:left; margin-top:16px;}
+nav .wrap_width{position:relative;}
+nav ul{right:0; position:absolute;}
+nav ul li{line-height:80px;}
+nav ul li a{color:#ffffff; font-size:16px; font-weight:lighter; display:inline-block; width:84px;text-align:center; }
+nav ul li a:hover,nav ul li a:active{background:url(../images/nav_li_bg.png) no-repeat center center;}
+.banner{font:0;text-indent:-9999px;height:456px;background:url(../images/design_banner.jpg) no-repeat center 0px #150822; margin-top:72px;}
+
+
+h3 {color:#eb690a;font-weight:normal; font-size:28px; margin:20px 0;}
+h3 span{color:#666666;font-size:16px;}
+.works,.i{padding-top:20px;}
+.works .worksli{float:left;width:306px; height:206px; margin-bottom:20px;}
+.works .center{width:346px; text-align:center;}
+
+
+.i h3{margin-bottom:30px;}
+.i .left,.i .right{float:left;margin-bottom:50px;}
+.i .left{width:254px;height:254px;}
+.i .right{width:700px;height:254px;}
+.i .right p{margin-bottom:20px;padding-left:40px; line-height:180%;}
+.i .right .base{margin-top:50px;}
+.i .right .base span{color:#333333; font-size:28px;}
+
+footer{background:#016078; height:80px;}
+footer .logo,footer ul li{float:left;}
+footer .logo{float:left; margin-top:16px;}
+footer .wrap_width{position:relative;}
+footer ul{right:0; position:absolute;}
+footer ul li{line-height:80px;}
+footer ul li a{color:#ffffff; font-size:16px; display:inline-block; width:84px; padding-left:40px;margin-left:35px;}
+footer ul li a:hover{color:#004253;}
+footer ul li a.sina{background:url(../images/footer_sina.png) no-repeat 0  22px;}
+footer ul li a.sina:hover{background:url(../images/footer_sina_hover.png) no-repeat 0 22px;}
+footer ul li a.zcool{background:url(../images/footer_zcool.png) no-repeat 0 22px;}
+footer ul li a.zcool:hover{background:url(../images/footer_zcool_hover.png) no-repeat 0 22px;}
+
+
+
